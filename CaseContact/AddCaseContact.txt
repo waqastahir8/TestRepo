@@ -1,4 +1,4 @@
-This is file Contact.txt
+This is file AddCaseContact.txt
 Created first
 Lorem ipsum fpsolorabk aiwhdawid jijeihi feoaijf
 klahfke klahfke
@@ -7,4 +7,4 @@ dlisefn
 dliendse
 diheofhs
 
-export ContactScreen
+export AddCaseContactScreen
