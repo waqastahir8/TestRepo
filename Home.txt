@@ -5,4 +5,9 @@ adw
 CaseScreen
 CasesScreen
 AddCaseScreen
+
+ContactScreen
+ContactsScreen
+AddContactScreen
+
 export HomeScreen
