@@ -1,0 +1,5 @@
+This is file Contacts.txt
+Created first
+aiwhdawid 
+daaw dwad adwa
+export ContactsScreen
