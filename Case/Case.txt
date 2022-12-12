@@ -1,0 +1,7 @@
+This is file Case.txt
+Created first
+
+dawkhda
+aiwhdawida
+daw
+export CaseScreen
