@@ -6,8 +6,8 @@ CaseScreen
 CasesScreen
 AddCaseScreen
 
-ContactScreen
-ContactsScreen
-AddContactScreen
+CaseContactScreen
+CaseContactsScreen
+AddCaseContactScreen
 
 export HomeScreen

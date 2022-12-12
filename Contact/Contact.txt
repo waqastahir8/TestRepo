@@ -1,7 +1,4 @@
 This is file Contact.txt
-Created first
-
-dawkhda
-aiwhdawida
-daw
+Created at second
+YOLO PRO
 export ContactScreen

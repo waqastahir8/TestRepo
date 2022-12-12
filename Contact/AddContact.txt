@@ -1,10 +1,5 @@
-This is file Contact.txt
-Created first
-Lorem ipsum fpsolorabk aiwhdawid jijeihi feoaijf
-klahfke klahfke
-diesfhsle
-dlisefn
-dliendse
-diheofhs
+This is file AddContact.txt
+Created at second
+YOLO PRO
 
-export ContactScreen
+export AddContactScreen
